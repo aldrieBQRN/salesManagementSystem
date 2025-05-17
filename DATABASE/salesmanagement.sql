@@ -2,8 +2,8 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost
--- Generation Time: Feb 20, 2025 at 12:56 AM
+-- Host: 127.0.0.1:3307
+-- Generation Time: May 17, 2025 at 11:52 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -90,7 +90,8 @@ INSERT INTO `product` (`productID`, `name`, `category`, `price`, `stock`) VALUES
 (48, 'Toy Train', 'Toys', 10.99, 167),
 (49, 'Play-Doh', 'Toys', 5.99, 345),
 (50, 'Kite', 'Toys', 6.99, 9),
-(51, 'Toyo', 'Food', 12.00, 18);
+(51, 'Toyo', 'Food', 12.00, 18),
+(52, 'ZETH RAMZY ', 'Food', 200.00, 20);
 
 -- --------------------------------------------------------
 
